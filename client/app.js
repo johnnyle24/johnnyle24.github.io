@@ -43,4 +43,12 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+app.get('/', function(req, res) {
+  res.send(path.join(__dirname + '/views/index.hjs'));
+});
+
+app.listen(3000, function() {
+  console.log("we started the express app");
+});
+
 module.exports = app;
