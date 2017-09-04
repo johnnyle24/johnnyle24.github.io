@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61bdebbb-f88f-4063-b1a4-8a84244405f1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/views/index.hjs" afterPath="$PROJECT_DIR$/client/index.hjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/client/index.hjs" afterPath="$PROJECT_DIR$/index.hjs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -158,6 +157,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\le_ju\Desktop\My Site\johnnyle24.github.io" />
       <recent name="C:\Users\le_ju\Desktop\My Site\johnnyle24.github.io\client" />
       <recent name="C:\Users\le_ju\Desktop\My Site\johnnyle-site\client" />
     </key>
@@ -238,12 +238,12 @@
       <updated>1504156455763</updated>
       <workItem from="1504156459009" duration="7097000" />
       <workItem from="1504484903987" duration="256000" />
-      <workItem from="1504487217936" duration="274000" />
+      <workItem from="1504487217936" duration="331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7627000" />
+    <option name="totallyTimeSpent" value="7684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="461" y="354" width="2047" height="1299" extended-state="0" />
@@ -368,7 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/index.hjs">
+    <entry file="file://$PROJECT_DIR$/index.hjs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
