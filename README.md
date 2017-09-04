@@ -1,2 +1,4 @@
-# johnnyle24.github.io
-My Personal Public Static Website
+# Personal
+A repository for my website.
+
+Built using React and Express.
